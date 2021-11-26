@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinícius Andrade, e atualmente sou estudante de Matemática e Desenvolvimento de Sistemas
+### Olá, eu sou o Vinícius Andrade, e atualmente sou estudante de Matemática e Desenvolvimento de Sistemas !!!
 
 - 🔭 Atualmente sou estudande de Desenvolvimento
 - 🌱 Atualmente estou aprendendo JavaScript
