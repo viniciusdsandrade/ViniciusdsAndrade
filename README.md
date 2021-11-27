@@ -1,8 +1,8 @@
-### Olá, eu sou o Vinícius Andrade, e atualmente sou estudante de Matemática e Desenvolvimento de Sistemas !!!
+### Olá, eu sou o Viní Andrade, atualmente sou estudante de Matemática e Desenvolvimento de Sistemas !!!
 
-- 🔭 Atualmente sou estudande de Desenvolvimento
-- 🌱 Atualmente estou aprendendo JavaScript
-- ⚡ Fun fact: Sou baixista e atualmente estou aprendendo tocar teclado
+- 🔭 Atualmente sou estudande de programação e matemática!
+- 🌱 Atualmente estou aprendendo JavaScript e Python!
+- ⚡ Fun fact: Sou baixista e atualmente estou aprendendo tocar teclado!
 
   
 <div> 
