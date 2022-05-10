@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudande de programação e matemática!
 - 🌱 As tecnologioas que estão no meu dia a dia são C# e Python!
-- ⚡ Fun fact: Sou baixista e atualmente estou aprendendo tocar teclado!
+- ⚡ Fun fact: Sou baixista e atualmente estou aprendendo a tocar teclado!
 
   
 <div> 
