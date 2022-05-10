@@ -1,7 +1,7 @@
-### Olá, eu sou o Viní Andrade, atualmente sou estudante de Matemática e Programação !!!
+### Olá, eu sou o Viní, atualmente sou estudante de Matemática e Programação !!!
 
-- 🔭 Atualmente sou estudande de programação e matemática!
-- 🌱 Atualmente estou aprendendo JavaScript e Python!
+- 🔭 Sou estudande de programação e matemática!
+- 🌱 As tecnologioas que estão no meu dia a dia são C# e Python!
 - ⚡ Fun fact: Sou baixista e atualmente estou aprendendo tocar teclado!
 
   
