@@ -1,8 +1,8 @@
-### Olá, eu sou o Viní, atualmente sou estudante de Matemática e Programação !!!
+### Olá, eu sou o Vini, atualmente sou estudante desenvolvimento de sistemas e professor de matemática !!!
 
 - 🔭 Sou estudande de programação e matemática!
-- 🌱 As tecnologioas que estão no meu dia a dia são C# e Python!
-- ⚡ Fun fact: Sou baixista e atualmente estou aprendendo a tocar teclado!
+- 🌱 Hoje eu estudo JAVA no paradigma de orientação a objetos e ReactJS!
+- ⚡ Fun fact: Sou baixista e fotógrafo nas horas vagas!
 
   
 <div> 
