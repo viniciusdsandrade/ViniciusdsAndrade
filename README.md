@@ -1,7 +1,7 @@
-### Olá, eu sou o Vini, atualmente sou estudante desenvolvimento de sistemas e professor de matemática !!!
+### Olá, eu sou o Vini,  sou Desenvolvedor de software!!!
 
-- 🔭 Sou estudande de programação e matemática!
-- 🌱 Hoje eu estudo JAVA no paradigma de orientação a objetos e ReactJS!
+- 🔭 Sou desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas - FATEC - Campinas
+- 🌱 Hoje eu estudo JAVA no paradigma de orientação a objetos!
 - ⚡ Fun fact: Sou baixista e fotógrafo nas horas vagas!
 
   
