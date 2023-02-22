@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusdsandrade&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusdsandrade" /> </p>
 
-<p align="left"> <a href="https://twitter.com/viniciusdsa19" target="blank"><img src="https://img.shields.io/twitter/follow/viniciusdsa19?logo=twitter&style=for-the-badge" alt="viniciusdsa19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciusdsandrade" alt="viniciusdsandrade" /></a> </p>
+
+- 🌱 I’m currently learning **Spring boot**
 
 - 📫 How to reach me **vinicius_andrade2010@hotmail.com**
 
