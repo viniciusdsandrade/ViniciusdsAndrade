@@ -11,9 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=viniciusdsandrade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusdsandrade&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdsandrade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<div> 
- ![](https://github-readme-stats.vercel.app/api?username=viniciusdsandrade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusdsandrade&theme=dark&hide_border=false)<br/>
-</div>
