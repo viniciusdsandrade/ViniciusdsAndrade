@@ -14,7 +14,6 @@
 
 
 <div> 
-  
-  ![Snake animation](https://github.com/viniciusdsandrade/viniciusdsandrade/blob/output/github-contribution-grid-snake.svg)
- 
+ ![](https://github-readme-stats.vercel.app/api?username=viniciusdsandrade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusdsandrade&theme=dark&hide_border=false)<br/>
 </div>
