@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 IProgramming student and lover of psychology and double bass<br>
+🔭 Programming student with a passion for backend development and data analysis 
+
+- Java
+- Spring Boot 3,  Spring Data, Spring Security
+- JUnit, Maven, Grandle
+- JDBC, JPA
+- MySQL
+- Angular
+- Node.js 
+- MongoDB
+- API RESTful
+- Git
+- GitHub.
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusdsandrade/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/viniciusdsa19) 
