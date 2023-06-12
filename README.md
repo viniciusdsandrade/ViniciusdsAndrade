@@ -12,6 +12,10 @@
 - API RESTful
 - Git
 - GitHub.
+
+Student of Technologist in Systems Analysis and Development - Faculdades de Tecnologia de São Paulo - FATEC I am very interested in Full Stack Java development. 
+
+I'm looking for an internship opportunity in software development/engineering. Availability in person/online in the morning/afternoon or afternoon/evening.
 <br>
 
 ## 🌐 Socials:
