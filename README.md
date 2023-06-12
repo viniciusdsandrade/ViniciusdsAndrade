@@ -1,8 +1,8 @@
 ## Hello, my name is Vinícius!
 
-💻 Back-End Java Developer
-👨‍🎓 Student FATEC - Campinas Technology College
-
+- 💻 Back-End Java Developer
+- 👨‍🎓 Student FATEC - Campinas Technology College
+ 
 # 💫 About Me:
 🔭 Programming student with a passion for backend development and data analysis 
 
