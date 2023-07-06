@@ -6,20 +6,24 @@
 # 💫 About Me:
 🔭 Programming student with a passion for backend development and data analysis 
 
-- Java 11 , 17
-- Spring Boot 3,  Spring Data, Spring Security
-- Junit, TDD e BDD, Design Patterns, Clean Architecture, Domain Drive Design
-- Arquitetura de Microsserviços na nuvem, Spring e Mensageria com RabbitMQ 
-- JDBC, ORM com JPA, Hibernate, Maven 
-- MySQL
-- MongoDB
-- Angular.js
-- Node.js com Express
-- API RESTful
-- Git & GitHub
-- Scrum, Kanban
-- AWS – Lightsail, EC2, S3, VPC, RDS e DynamoDB e Observabilidade com CloudWatch e Containers – ECS e EKS
-- Google Cloud Platform 
+Back-End
+•	Java
+•	Spring Boot 3
+•	Node.js 
+Banco de dados
+•	MySQL e PostgreSQL 
+•	MongoDB
+DevOps
+•	AWS
+•	Linux
+•	Docker, Containers, CI/CD
+Desenvolvimento Ágil
+•	Scrum
+•	Kanban
+Versionamento
+•	Git
+•	GitHub 
+
 
 I'm looking for an internship opportunity in software development/engineering. 
 Availability in person/online in the morning/afternoon or afternoon/evening.
